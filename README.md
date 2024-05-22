@@ -73,6 +73,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||NO|
 |[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nič|ena|dva|tri|štiri|pet|šest|sedem|osem|devet|ja|ne|NO|
 |[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|YES|
+|[Standard Moroccan Tamazight](https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh)|ⴰⵎⵢⴰ|ⵢⴰⵏ|ⵙⵉⵏ|ⴽⵕⴰⴹ|ⴽⴽⵓⵥ|ⵙⵎⵎⵓⵙ|ⵚⴹⵉⵚ|ⵙⴰ|ⵜⴰⵎ|ⵜⵥⴰ|ⵢⴰⵀ|ⵓⵀⵓ|YES|
 |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|noll|ett|två|tre|fyra|fem|sex|sju|åtta|nio|ja|nej|YES|
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|YES|
 |[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|ноль|бер|ике|өч|дүрт|биш|алты|җиде|сигез|тугыз|әйе|юк|YES|
